@@ -8,7 +8,7 @@ public class Sale {
     private String price;
 
     public String getId() {
-        return id;
+        return "ID: " + id;
     }
 
     public void setId(String id) {
