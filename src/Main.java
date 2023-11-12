@@ -21,7 +21,7 @@ public class Main {
         for (int i = 0; i < vehicleNumber; i++) {
             Vehicle vehicle = new Vehicle();
 
-            System.out.println("Introduce los datos del vehiculo " + i + ": ");
+            System.out.println("Introduce los datos del vehiculo: ");
 
             System.out.println("Marca: ");
             vehicle.setBrand(scanner.next());
