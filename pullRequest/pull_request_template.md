@@ -18,4 +18,3 @@ una venta en la clase _Main_
 
 ## Screenshots or Video
 
-<!-- Captura de pantalla de la consola -->
